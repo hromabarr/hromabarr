@@ -1,9 +1,9 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,35:2e1065,70:4c1d95,100:6366f1&height=240&section=header&text=hromabarr&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Software%20Engineer%20%E2%80%A2%20Apple%20Platforms%20%E2%80%A2%20DevOps%20%26%20Self-Hosting&descSize=18&descAlignY=60&descAlign=50" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0221,35:2e1065,70:4c1d95,100:6366f1&height=240&section=header&text=hromabarr&fontSize=60&fontColor=ffffff&fontAlignY=38&animation=fadeIn&desc=Full%20Stack%20Developer%20%E2%80%A2%20AI%20Agents%20%26%20Automation%20%E2%80%A2%20Self-Hosting&descSize=18&descAlignY=60&descAlign=50" width="100%"/>
 
 <a href="https://github.com/hromabarr">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=760&height=50&lines=Building+native+apps+for+Apple+platforms+in+Swift;Containerizing+infrastructure+with+Docker;Automating+builds+with+CI%2FCD+pipelines;Shipping+clean%2C+tested%2C+maintainable+software" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&multiline=false&width=760&height=50&lines=Building+full+stack+apps+with+TypeScript+and+Node.js;Shipping+AI+agents+for+web%2C+WhatsApp+and+voice;Self-hosting+on+Raspberry+Pi+and+Docker;Deploying+to+the+edge+with+Cloudflare+Workers" alt="Typing SVG"/>
 </a>
 
 <br/>
@@ -30,11 +30,11 @@
 
 ## About
 
-I am a software engineer who builds native applications for Apple platforms and the infrastructure that runs them. My work spans **Swift development**, **containerized deployments**, and **CI/CD automation**, with a strong focus on code that is tested, reproducible, and easy for other engineers to pick up.
+I am a full stack developer who builds software for real businesses and the infrastructure that runs it. My work spans **TypeScript and Node.js applications**, **AI agents and automation**, and **self-hosted deployments**, with a strong focus on code that is simple, reproducible, and easy for other engineers to pick up.
 
-On the application side, I design and ship native Swift projects with dedicated test targets, declarative project configuration, and automated pipelines that validate every change. On the infrastructure side, I package services into Docker Compose stacks that deploy cleanly on home servers, NAS systems, and Linux hosts, with persistent storage, preconfigured networking, and clear bilingual documentation.
+On the application side, I build ERPs, channel managers, client portals and websites for small businesses, backed by PostgreSQL and deployed on Cloudflare Workers or my own servers. On the infrastructure side, I run services on Raspberry Pi and Docker Compose stacks that deploy cleanly on home servers, NAS systems, and Linux hosts.
 
-I am increasingly applying **AI/ML** to product work, exploring on-device machine learning and LLM-powered tooling to build features that are fast, private, and genuinely useful. I approach every project with a product engineering mindset: understand the user, keep the system simple, automate what repeats, and document what matters.
+I apply **LLMs** where they save people time: assistants that answer customers on the web and WhatsApp, a RAG knowledge base over company documents, a local desktop agent that controls apps and the browser, and daily briefings that cross calendar, email and tasks. I approach every project with a product engineering mindset: understand the user, keep the system simple, automate what repeats, and document what matters.
 
 <table>
 <tr>
@@ -52,8 +52,8 @@ I am increasingly applying **AI/ML** to product work, exploring on-device machin
 
 **Open To**
 
-- iOS / Swift Engineering roles
 - Full Stack and Backend roles
+- AI and Automation Engineering roles
 - DevOps and Platform Engineering roles
 - Open source collaboration
 
@@ -69,25 +69,25 @@ I am increasingly applying **AI/ML** to product work, exploring on-device machin
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=swift,java,python,ts,js,bash&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=ts,js,python,java,bash&theme=dark&perline=8"/>
 
 <br/><br/>
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,html,css,figma&theme=dark&perline=8"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,html,css&theme=dark&perline=8"/>
 
 <br/><br/>
 
 **Backend & Databases**
 
-<img src="https://skillicons.dev/icons?i=nodejs,spring,fastapi,postgres,mysql,sqlite,firebase,redis&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,sqlite&theme=dark&perline=10"/>
 
 <br/><br/>
 
 **Cloud, DevOps & Tooling**
 
-<img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,githubactions,git,github,aws,nginx,vscode&theme=dark&perline=10"/>
+<img src="https://skillicons.dev/icons?i=cloudflare,docker,linux,raspberrypi,githubactions,git,github,vscode&theme=dark&perline=10"/>
 
 </div>
 
@@ -99,12 +99,12 @@ I am increasingly applying **AI/ML** to product work, exploring on-device machin
 
 | Domain | Proficiency | Details |
 |:---|:---:|:---|
-| **On-Device ML** | ![](https://img.shields.io/badge/Intermediate-7c3aed?style=flat-square) | Core ML, Create ML, model conversion and integration into native Swift apps |
-| **Large Language Models** | ![](https://img.shields.io/badge/Intermediate-7c3aed?style=flat-square) | Prompt engineering, structured outputs, API integration, AI-assisted developer workflows |
-| **Retrieval-Augmented Generation** | ![](https://img.shields.io/badge/Exploring-6366f1?style=flat-square) | Embeddings, vector search, document chunking and grounded answer generation |
-| **Machine Learning Fundamentals** | ![](https://img.shields.io/badge/Intermediate-6366f1?style=flat-square) | Supervised learning, model evaluation, scikit-learn, Pandas, NumPy |
-| **Computer Vision** | ![](https://img.shields.io/badge/Exploring-6366f1?style=flat-square) | Apple Vision framework, image classification, text recognition |
-| **MLOps** | ![](https://img.shields.io/badge/Exploring-6366f1?style=flat-square) | Containerized inference services, CI for ML artifacts, reproducible environments |
+| **LLM Agents** | ![](https://img.shields.io/badge/Hands--on-7c3aed?style=flat-square) | Customer assistants for the web and WhatsApp, tool calling, structured outputs, prompt design |
+| **Retrieval-Augmented Generation** | ![](https://img.shields.io/badge/Hands--on-7c3aed?style=flat-square) | Knowledge base over company documents: chunking, embeddings and grounded answers |
+| **Desktop & Browser Agents** | ![](https://img.shields.io/badge/Hands--on-7c3aed?style=flat-square) | Local assistant that controls Windows apps and a dedicated browser, confirming every action |
+| **Automation & Integrations** | ![](https://img.shields.io/badge/Hands--on-7c3aed?style=flat-square) | Google Calendar and Gmail, Telegram and WhatsApp bots, daily LLM summaries |
+| **Web Scraping** | ![](https://img.shields.io/badge/Hands--on-6366f1?style=flat-square) | Price trackers and business data extraction with Playwright |
+| **Generative Media** | ![](https://img.shields.io/badge/Exploring-6366f1?style=flat-square) | AI video walk-throughs from real photos and 3D models for websites |
 
 </div>
 
@@ -253,23 +253,23 @@ Vacation rental management company in the Rías Baixas, Galicia, running holiday
 
 ```yaml
 learning:
-  - Swift Concurrency (async/await, actors)
-  - Core ML and on-device intelligence
-  - Advanced CI/CD for Apple platforms
+  - AI agents with tool calling and memory
+  - RAG and vector search in production
+  - Infrastructure as Code
 
 building:
   - XGI LAB — software and AI for small businesses
-  - CRONO — native Swift application
-  - Self-hosted infrastructure with Docker Compose
+  - ERP and channel manager for vacation rentals
+  - OpenJarvis — local desktop and browser agent
 
 exploring:
-  - LLM integration in native apps
+  - Voice agents for phone bookings
+  - Generative video and 3D for the web
   - Home server platforms (ZimaOS, CasaOS)
-  - Infrastructure as Code
 
 open_to:
-  - iOS / Swift Engineering roles
-  - DevOps and Platform Engineering roles
+  - Full Stack and Backend roles
+  - AI and Automation Engineering roles
   - Open source collaboration
 ```
 
